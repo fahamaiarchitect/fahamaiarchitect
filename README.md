@@ -27,11 +27,10 @@
 
 Email Me 👉 ✉️ **faham7106@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** 
+- 🔭 **I’m currently working on:** on:Business Intelligence Solutions Building, Data Insigits, Data Visulization, EDA, AI Agents, Intelligent Automation Systems with n8n, RAG Pipelines
+- 🌱 **I’m currently learning:**Data Insights , Data Visulization, Data Cleaning, EDA, Statics, Agentic AI, Multi-Agent Collaboration, Advanced Prompt Engineering, Production AI Systems, and Cloud-Native AI Deployments.
+- 👯 **I’m looking to collaborate on:** AI/ML Products, AI-Powered SaaS Platforms, Computer Vision Applications, Data Intelligence Projects, and Workflow Automation Solutions.
+- 🤔 **I’m looking for help with:** Large-Scale AI Infrastructure, Distributed Agent Systems, MLOps Automation, and High-Performance RAG Architectures.
 💡 I am looking to collaborate on:
 - AI & Machine Learning Projects
 - NLP and Computer Vision Applications
